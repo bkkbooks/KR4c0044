@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0044/WYG/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 共
+  hash: sha256:76e547a8fa546381d67f4089ff5ee2b14ce6bae739dfb716c0446e86f4892242
+metadata:
+  title: 朱文公校昌黎先生文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:06:16.782499'
+  source:
+    repository: kanripo
+    path: KR4c0044/KR4c0044_040.txt
+hash: sha256:99f6e7338e4ad9405b54aaf18280dbe4a353750b26c73de6f5578d203b06d5ed
