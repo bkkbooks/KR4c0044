@@ -156,6 +156,7 @@ markers:
   - {type: page-break, offset: 129, content: '', id: KR4c0044_WYG_040-20a, image: WYG1073/WYG1073-0687a.png}
   - {type: page-break, offset: 129, content: '', id: KR4c0044_WYG_040-20b, image: WYG1073/WYG1073-0687b.png}
   - {type: indent, offset: 134, content: 　, id: KR4c0044_krp_041-bkkind26}
+  - {type: substitution, offset: 137, original: 賛, replacement: 贊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17775}}
   - {type: 'kr:newline', offset: 138, content: '
 
       ', id: KR4c0044_krp_041-bkkkrnewl21}
@@ -165,6 +166,7 @@ markers:
   - {type: variant, offset: 141, length: 2, content: 置郷, WYG: 差清强巡官檢責所在實戸據口團保給一年鹽使其四季輸納鹽價口多糶少及鹽價遲違請停觀察使見任改散慢官其刺史已下貶與上佐其餘官貶逺處者平叔本請官自糶鹽以寛百姓令其蘇息免更流亡今令責戸口團保給鹽令其隨季輸納鹽價所謂擾而困之之意也百姓貧家食鹽至少或有淡食動經旬月若據口給鹽一無鹽字依時徴價辦與不辦並須納錢遲違及違條件觀察使已下各加罪譴一本譴作於字又無下文茍字茍官吏畏罪必用威刑臣恐因此所在不安百姓轉致流散此又不可之大者也一件平叔請限商人鹽納官後不得輒於諸軍諸使覔職掌把錢捉店看守莊磑祝曰磑磨也世本公輸般作之磑五對切以求影庇請令所在官吏嚴加訪察訪一作防如有違犯應有資財並令納官仍牒送府縣充所由者臣以為鹽商納𣙜為官糶鹽子父相承坐受厚利比百姓實則}
   - {type: page-break, offset: 141, content: '', id: KR4c0044_WYG_040-21a, image: WYG1073/WYG1073-0687c.png}
   - {type: page-break, offset: 141, content: '', id: KR4c0044_WYG_040-21b, image: WYG1073/WYG1073-0687d.png}
+  - {type: substitution, offset: 142, original: 郷, replacement: 鄉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19672}}
   - {type: variant, offset: 144, length: 6, content: 牒第六卷順宗, WYG: 優則一作有今既奪其業又禁不得求覔職事及為人把錢捉店看守莊磑不知其罪其一作何一朝窮蹙之也若必行此則富商大賈必生怨恨或收市重寶逃入反側之地以資冦盜此又不可不慮也一件平叔云叔下疑當有云字或稱字之類今亦補足行此䇿後兩市軍人富商大賈或行財賄邀截喧訴請令所由切加收捉如獲頭首所在决殺連狀聚衆人等各决脊杖二十檢責軍司軍戸鹽如有隠漏並凖府縣例科决并賞所由告人者此一件若果行之不惟大失人心兼亦驚動逺近不知糶鹽所獲幾何而害人蠧政其弊}
   - {type: page-break, offset: 144, content: '', id: KR4c0044_WYG_040-22a, image: WYG1073/WYG1073-0688a.png}
   - {type: 'kr:newline', offset: 145, content: '
@@ -274,6 +276,7 @@ markers:
   - {type: indent, offset: 237, content: 　　　, id: KR4c0044_krp_041-bkkind40}
   - {type: variant, offset: 239, length: 0, content: '', WYG: 牟}
   - {type: variant, offset: 240, length: 1, content: 㝷, WYG: 執中尋}
+  - {type: substitution, offset: 240, original: 㝷, replacement: 尋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20077}}
   - {type: indent, offset: 246, content: 　, id: KR4c0044_krp_041-bkkind41}
   - {type: variant, offset: 246, length: 0, content: '', WYG: 方云此詩得於五竇聮珠集公時任都官外郎同洛陽令竇公河南令韋執中以訪之元和五年也詩以同尋師為韻人各一首洪氏年譜亦見秦客何年駐仙源此地深還隨躡鳬騎來訪馭風襟院閉青霞入松髙老鶴尋猶疑影形坐敢起竊桃心}
   - {type: page-break, offset: 246, content: '', id: KR4c0044_WYG_041-2b, image: WYG1073/WYG1073-0689b.png}
@@ -345,7 +348,9 @@ markers:
   - {type: indent, offset: 323, content: 　, id: KR4c0044_krp_041-bkkind53}
   - {type: variant, offset: 323, length: 0, content: '', WYG: 補註公作論語傳未成而殁見於張籍祭詩下於洪慶善之兑者甚明今世所傳如宰予晝寢以書作晝子在齊聞韶三月不知肉味以三月作音浴乎沂以浴作㳂子在回何敢死以死作先雖甚鄙賤然為伊川之學者皆取之愈白侯生足下所示論語問甚善聖人踐形之説孟子詳於其書當終始究之若萬物皆備於我反身而誠是也茍有偽焉則萬物不備矣踐形之道無它誠是也足下謂賢者不能踐形非也賢者非不能踐形能而不備耳形言其備也所謂具體而微是也充實之謂美充實而有光輝之謂大充實則具體未大則微夫或去聖一間或得其一體皆踐形而未備者唯反身而誠則能踐形之備者耳愈昔註解其書而不敢過求其意取聖人之旨而合之則足以信後生輩耳此説甚為穏當切更思之}
   - {type: page-break, offset: 323, content: '', id: KR4c0044_WYG_041-7b, image: WYG1073/WYG1073-0691d.png}
+  - {type: substitution, offset: 324, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: page-break, offset: 325, content: '', id: KR4c0044_WYG_041-8a, image: WYG1073/WYG1073-0692a.png}
+  - {type: substitution, offset: 341, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: 'kr:newline', offset: 343, content: '
 
       ', id: KR4c0044_krp_041-bkkkrnewl47}
@@ -378,12 +383,14 @@ markers:
   - {type: page-break, offset: 388, content: '', id: KR4c0044_WYG_041-10a, image: WYG1073/WYG1073-0693a.png}
   - {type: page-break, offset: 388, content: '', id: KR4c0044_WYG_041-10b, image: WYG1073/WYG1073-0693b.png}
   - {type: page-break, offset: 388, content: '', id: KR4c0044_WYG_042-1a, image: WYG1073/WYG1073-0694a.png}
+  - {type: substitution, offset: 388, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
   - {type: variant, offset: 391, length: 2, content: 崩慰, WYG: 實録為十巻則似亦以實録入於其中皆不知其何説也唯呂夏卿以為明水賦通解崔虞部書河南同官記皆見於趙德文録計必德親受於文公者比它本最為可信而李漢不以入集則疑凡外集所載漢亦有所未得未必皆其所不取者其説近是故今且從}
   - {type: page-break, offset: 391, content: '', id: KR4c0044_WYG_042-1b, image: WYG1073/WYG1073-0694b.png}
   - {type: variant, offset: 394, length: 0, content: '', WYG: 本而考其真偽異同之説以詳註於其下其甚偽者即雖不載其文而猶存其目使讀者猶有考焉其石刻聮句遺詩文等則從方本録之以補外集之闕又諸本有遺文一巻方本亦多不録今亦存之以附于後明水賦以𤣥化無宰至精感通為韵精或作誠古者聖人之制祭祀也必主忠敬崇吉蠲不貴其豐乃或薦之以水不可以黷斯用致之於天或無者字無也字於方作于其事信美其義惟𤣥月實水精故求其本也明為君德因取以名焉於是命烜氏俟清夜或將祀圓丘於𤣥冬或將祭方澤於朱夏祀方作祭祭或作祀持鑑而精氣韓曰淮南子積陰之寒氣為水水氣之精者為月旁射照月而陰靈樊曰謝莊月賦日以陽德月以陰靈潛下視而不見謂合}
   - {type: page-break, offset: 394, content: '', id: KR4c0044_WYG_042-2a, image: WYG1073/WYG1073-0695a.png}
   - {type: variant, offset: 395, length: 2, content: 䟽題, WYG: 於希夷挹之則盈方同功於造化應於有生於無生或作聲形象未分徒騁離婁之目光華暗至如還合浦之珠既齊芳於酒醴詎比賤於潢汚芳方作髙云禮夏尚明水商尚醴周尚酒今作齊芳非都今按明水當在酒醴之上不應反言齊髙此蓋以其無臭味嫌不足於芬芳故有齊芳之語方説非是明德惟馨𤣥功不宰于以表誠潔于以戒荒怠茍失其道殺牛之祭何為如得其宜明水之薦斯在宜方作情薦或作為不引而自致不行而善至雖辭麴蘖之}
   - {type: page-break, offset: 395, content: '', id: KR4c0044_WYG_042-2b, image: WYG1073/WYG1073-0695b.png}
+  - {type: substitution, offset: 395, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
   - {type: 'kr:newline', offset: 396, content: '
 
       ', id: KR4c0044_krp_041-bkkkrnewl50}
@@ -578,4 +585,4 @@ markers:
   - {type: page-break, offset: 450, content: '', id: KR4c0044_WYG_051-8b, image: WYG1073/WYG1073-0732d.png}
   - {type: page-break, offset: 450, content: '', id: KR4c0044_WYG_052-1a, image: WYG1073/WYG1073-0733a.png}
   back: []
-hash: sha256:188eb59d5e8636b4c2c825bb77d0cf795a62a6be86025322a137bd76dba87533
+hash: sha256:532518846157ff27749fe350f519df4b5bfeffd9df209f5bd616c9485e58824a
