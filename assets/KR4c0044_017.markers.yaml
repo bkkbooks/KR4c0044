@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 519, content: 朱文公校昌黎先生集卷之十七考異音釋附書上張僕射書九月一日愈再拜受牒之明日在使院中有小吏持院中故事節目十餘事來示愈其中不可者有自九月至明年二月之終皆晨入夜歸非有疾病事故輙不許出當時以𥘉受命不敢言古人有言曰人各有能有不能若此者非愈之所能也愈下或无之字抑而行之必發狂疾上無以承事于公忘其將所以報德者下無以自立䘮失其所以爲心夫如是則安得而不言忘或作望非是䘮或作哀或校作衷皆非是凡執亊之擇於愈者非爲其能晨入夜歸也必將有以取之苟有以取之雖不晨入而夜歸其所取者猶在也或无將字与而字所取下亦无者字下之事上不一其事上之使下不一其事量力而任之度才而處之其所不能不彊使爲是故爲下者不獲罪於上爲上者不得怨於下矣或作也孟子有云今之諸侯無大相過者以其皆好臣其所教而不好臣其所受教諸本皆如此閣本二教字並作命方从杭蜀苑教作受命所受教作所以受命云考孟子上語當作受命仐校依孟子則上語不當有受字下語不當有以字而二命字本皆作敎童而習者皆能知之不知方氏何據而云考孟子上語當作受命也今之時與孟子之時又加逺矣皆好其聞命而奔走者不好其直巳而行道者聞命而奔走者好利者也直已而行道者好義者也未有好利而愛其君者未有好義而忘其君者文苑而爱作而能爱而忘作而不爱二語並无者字仐之王公大人惟執事可以聞, WYG: ''}
   - {type: variant, offset: 5, length: 1, content: 黎, SBCK: 􅀺}
   - {type: punctuation, offset: 13, content: (, id: KR4c0044_krp_017-bkkpn1}
+  - {type: 'voice:problem', offset: 13, length: 0, id: KR4c0044_bkk_017-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 13}
   - {type: punctuation, offset: 16, content: /, id: KR4c0044_krp_017-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_017-bkkpn1}
@@ -17,6 +18,7 @@ markers:
       ', id: KR4c0044_krp_017-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_017-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4c0044_krp_017-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_017-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 1, content: '
 
       ', id: KR4c0044_krp_017-bkkkrnewl2}
@@ -2532,4 +2534,4 @@ markers:
   - {type: variant, offset: 6738, length: 0, content: '', WYG: 欽定四庫全書别本韓文考異巻十八宋王伯大重編書}
   - {type: page-break, offset: 6738, content: '', id: KR4c0044_WYG_018-1a, image: WYG1073/WYG1073-0493c.png}
   back: []
-hash: sha256:7c859ab8f761896a95c46186d208d6698c49b1f3c6143dcf9ffd527dda0fa8bb
+hash: sha256:8cb4a8627a4de2986cc8b3e6c2719e1c82883963374b905602fcc5da06723d92

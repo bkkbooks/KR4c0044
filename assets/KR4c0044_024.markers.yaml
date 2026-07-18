@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 19, content: 朱文公校昌黎先生集卷之二十四考異音釋附, WYG: ''}
   - {type: variant, offset: 5, length: 1, content: 黎, SBCK: 􅀺}
   - {type: punctuation, offset: 14, content: (, id: KR4c0044_krp_024-bkkpn1}
+  - {type: 'voice:problem', offset: 14, length: 0, id: KR4c0044_bkk_024-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 14}
   - {type: punctuation, offset: 17, content: /, id: KR4c0044_krp_024-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_024-bkkpn1}
@@ -17,6 +18,7 @@ markers:
       ', id: KR4c0044_krp_024-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_024-1a02}
   - {type: indent, offset: 0, content: 　　, id: KR4c0044_krp_024-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_024-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: substitution, offset: 1, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: 'kr:newline', offset: 2, content: '
 
@@ -2044,4 +2046,4 @@ markers:
 
       ', id: KR4c0044_krp_024-bkkkrnewl223}
   back: []
-hash: sha256:9488095bd0609a924babc9f5e1feac0b41836c1d9193555f9c3f5d1d22b53aec
+hash: sha256:0a777b9a0b1aa72b40ddb9d0ba5a7a9c86b64ab47d57b3a302ad0df0e1d5dd67

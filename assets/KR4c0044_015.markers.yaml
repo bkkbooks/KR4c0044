@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_015-1a01}
   - {type: variant, offset: 0, length: 19, content: 朱文公校昌黎先生集卷之十五考異音釋附書, WYG: ''}
   - {type: punctuation, offset: 13, content: (, id: KR4c0044_krp_015-bkkpn1}
+  - {type: 'voice:problem', offset: 13, length: 0, id: KR4c0044_bkk_015-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 13}
   - {type: punctuation, offset: 16, content: /, id: KR4c0044_krp_015-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_015-bkkpn1}
@@ -16,6 +17,7 @@ markers:
       ', id: KR4c0044_krp_015-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_015-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4c0044_krp_015-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_015-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 1, content: '
 
       ', id: KR4c0044_krp_015-bkkkrnewl2}
@@ -1991,4 +1993,4 @@ markers:
   - {type: page-break, offset: 5069, content: '', id: KR4c0044_WYG_016-7b, image: WYG1073/WYG1073-0473d.png}
   - {type: page-break, offset: 5069, content: '', id: KR4c0044_WYG_016-8a, image: WYG1073/WYG1073-0474a.png}
   back: []
-hash: sha256:128e14144a3617a30f558e58e25f064c555100e9309f2e81a1eaccc230943c56
+hash: sha256:92d7a8ec36792f10cb6d4840547d4ac68c38bdbb8b5aa2f20d5a28ca6165f4dc

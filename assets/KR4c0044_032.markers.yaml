@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 650, content: 朱文公校昌黎先生集卷之三十二考異音釋附碑誌司徒兼侍中中書令贈太尉許國公神道碑銘韓姬姓以國氏國下或有爲字今按以囯氏春秋傳語其先有自潁川徙陽夏者其地於今爲陳之太康太康之韓其稱蓋乆然自公始大著公諱弘公之父曰海爲人魁偉沈塞以武勇游仕許汴之間寡言自可不與人交衆推以爲鉅人長者交或作校方云以上文自可言之作不与人交爲是今以下文長者言之又似作不与人校爲是更詳之鉅上方无爲字或无以鉅人三字而爲上有之字或併無以爲鉅人四字官至游擊將軍贈太師娶郷邑劉氏女生公是爲齊國太夫人夫人之兄曰司徒玄佐有功建中貞元之間複出夫人字或作斉囯功下或有於字爲宣武軍帥有汴宋亳潁四州之地兵士十萬人公少依舅氏讀書習騎射事親孝謹偘偘自將不縱爲子弟華靡遨放事偘偘或作侃侃字与偘同縱或作從出入敬恭軍中皆目之嘗一抵京師就明經試退曰此不足發名成業復去從舅氏學將兵數百人悉識其材鄙怯勇指付必堪其事司徒歎竒之兵下或有將字士卒屬之欲切心諸老將皆自以爲不及方无皆字司徒卒去爲宋南城將比六七歳汴軍連亂不定貞元十五年劉逸淮死軍中皆曰此軍司徒所樹必擇其骨肉爲士卒所慕頼者付之肉下或有而字今見在人莫如韓甥且其功最大而材又俊即柄授之而請之於天子天子以爲然遂自大理評事拜工部尚書代逸淮爲宣武軍節度使悉有其舅司徒之兵與地其舅或作舅氏當此時陳許帥曲環死而呉少誠反方无而字自將圍許求援於逸淮㗖之以陳歸汴使數輩在館公悉驅出斬之選卒三千人㑹諸軍擊少誠許下少誠失勢以走河南無事公曰自吾舅殁五亂於汴者吾苗薅樊曰淮南子云聖人之用兵也櫛髮媷苗所去者少而所利者多而髪櫛之幾盡然不一揃刈不足令震駴方云, WYG: ''}
   - {type: variant, offset: 5, length: 1, content: 黎, SBCK: 􅀺}
   - {type: punctuation, offset: 14, content: (, id: KR4c0044_krp_032-bkkpn1}
+  - {type: 'voice:problem', offset: 14, length: 0, id: KR4c0044_bkk_032-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 14}
   - {type: punctuation, offset: 17, content: /, id: KR4c0044_krp_032-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_032-bkkpn1}
@@ -17,6 +18,7 @@ markers:
       ', id: KR4c0044_krp_032-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_032-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4c0044_krp_032-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_032-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: substitution, offset: 1, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: 'kr:newline', offset: 2, content: '
 
@@ -2013,4 +2015,4 @@ markers:
   - {type: page-break, offset: 5291, content: '', id: KR4c0044_WYG_033-3a, image: WYG1073/WYG1073-0629c.png}
   - {type: page-break, offset: 5291, content: '', id: KR4c0044_WYG_033-3b, image: WYG1073/WYG1073-0629d.png}
   back: []
-hash: sha256:6d95b46274f7930b6b5011a41040c238c544f612612f864392e155b085280349
+hash: sha256:a3bc338b9c34a50aff621c06c0c0b76f62e0d1c2c02c811f50e7f61bf9a90928

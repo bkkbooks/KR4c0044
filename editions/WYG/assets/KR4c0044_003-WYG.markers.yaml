@@ -14,6 +14,7 @@ markers:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_WYG_003-bkkpn1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_WYG_003-front05}
   - {type: indent, offset: 0, content: 　　　, id: KR4c0044_WYG_003-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_WYG_003-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: punctuation, offset: 9, content: (, id: KR4c0044_WYG_003-bkkpn2}
   - {type: punctuation, offset: 10, content: /, id: KR4c0044_WYG_003-bkkpn3}
   - {type: punctuation, offset: 10, content: ), id: KR4c0044_WYG_003-bkkpn4}
@@ -1622,4 +1623,4 @@ markers:
 
       ', id: KR4c0044_WYG_003-bkkkrnewl224}
   back: []
-hash: sha256:7a57b219726cbb5c9c39439e87b4f3ba9f9dadf1f598639e85441f500359accc
+hash: sha256:4161cce52749abdfc617c8ee04fde2706a48e64c4ef97b0f8e9c8e0479e1b17f

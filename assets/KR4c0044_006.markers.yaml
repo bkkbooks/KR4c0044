@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 18, content: 朱文公校昌黎先生文集卷之六考異音釋附, WYG: ''}
   - {type: variant, offset: 5, length: 1, content: 黎, SBCK: 􅀺}
   - {type: punctuation, offset: 13, content: (, id: KR4c0044_krp_006-bkkpn1}
+  - {type: 'voice:problem', offset: 13, length: 0, id: KR4c0044_bkk_006-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 13}
   - {type: punctuation, offset: 16, content: /, id: KR4c0044_krp_006-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_006-bkkpn1}
@@ -17,6 +18,7 @@ markers:
       ', id: KR4c0044_krp_006-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_006-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4c0044_krp_006-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_006-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 2, content: '
 
       ', id: KR4c0044_krp_006-bkkkrnewl2}
@@ -3060,4 +3062,4 @@ markers:
 
       ', id: KR4c0044_krp_006-bkkkrnewl277}
   back: []
-hash: sha256:e89a67c0fc637a7941319dcf22bd1c177c1d82d0476e01e7eef877b9e41ee894
+hash: sha256:339b1a7a34e776a8ec8bfb3a8073b33e75a963727d4d3a1eed11c9cd338cc173

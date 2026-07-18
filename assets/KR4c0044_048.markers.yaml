@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 18, content: 朱文公校昌黎先生外集卷之六考異音釋附, WYG: ''}
   - {type: variant, offset: 5, length: 1, content: 黎, SBCK: 􅀺}
   - {type: punctuation, offset: 13, content: (, id: KR4c0044_krp_048-bkkpn1}
+  - {type: 'voice:problem', offset: 13, length: 0, id: KR4c0044_bkk_048-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 13}
   - {type: punctuation, offset: 16, content: /, id: KR4c0044_krp_048-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_048-bkkpn1}
@@ -17,6 +18,7 @@ markers:
       ', id: KR4c0044_krp_048-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_048-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4c0044_krp_048-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_048-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: punctuation, offset: 5, content: (, id: KR4c0044_krp_048-bkkpn2}
   - {type: punctuation, offset: 11, content: /, id: KR4c0044_krp_048-bkkpn3}
   - {type: punctuation, offset: 17, content: ), id: KR4c0044_krp_048-bkkpn4}
@@ -864,4 +866,4 @@ markers:
   - {type: variant, offset: 2462, length: 0, content: '', WYG: 欽定四庫全書别本韓文考異外集巻七宋王伯大重編}
   - {type: page-break, offset: 2462, content: '', id: KR4c0044_WYG_048-1a, image: WYG1073/WYG1073-0716a.png}
   back: []
-hash: sha256:266444657f13e8afd3514186504ef0f2781c6c2160fd6ac7887bd3f772525ab8
+hash: sha256:4b6e83d8ae3c7fbf4bca055b568bce48bfd11cdeb47ef715df4b3873258a7858

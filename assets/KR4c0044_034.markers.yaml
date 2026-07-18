@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 333, content: 朱文公校昌黎先生集卷之三十四考異音釋附碑誌南陽樊紹述墓誌銘補注後山詩話歐陽公謂退之為樊宗師墓誌便似樊文其始出於司馬子長子長為長卿傳如其文惟其過之故兼之也樊紹述旣卒且葬愈將銘之從其家求書得書號魁紀公者三十卷曰樊子者又三十卷春秋集傳十五卷表牋狀策書序傳記紀誌說論今文讃銘凡二百九十一篇誌上方无紀字道路所遇及器物門里雜銘二百二十賦十詩七百一十九一十或作又十曰多矣哉古未嘗有也然而必出於巳不襲蹈前人一言一句洪曰囯史補云元和之後文章則斈竒於韓愈斈澁於樊宗師退之作樊墓誌称其為文不剽襲觀絳守居園池記誠然亦太竒澁矣本朝王晟刘忱皆為之注解如瑶翻碧㶑嵬眼傾耳等語皆前人所未道也歐陽公䟦絳守居園池語云元和文章之盛極矣其竒怪至於如此又詩曰嘗聞紹述絳守居偶來登覽周四偶異哉樊子怪可吁心欲獨去, WYG: ''}
   - {type: variant, offset: 5, length: 1, content: 黎, SBCK: 􅀺}
   - {type: punctuation, offset: 14, content: (, id: KR4c0044_krp_034-bkkpn1}
+  - {type: 'voice:problem', offset: 14, length: 0, id: KR4c0044_bkk_034-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 14}
   - {type: punctuation, offset: 17, content: /, id: KR4c0044_krp_034-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_034-bkkpn1}
@@ -17,6 +18,7 @@ markers:
       ', id: KR4c0044_krp_034-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_034-1a02}
   - {type: indent, offset: 0, content: 　　, id: KR4c0044_krp_034-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_034-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: substitution, offset: 1, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: 'kr:newline', offset: 2, content: '
 
@@ -1791,4 +1793,4 @@ markers:
   - {type: variant, offset: 4594, length: 0, content: '', WYG: 欽定四庫全書别本韓文考異巻}
   - {type: page-break, offset: 4594, content: '', id: KR4c0044_WYG_035-1a, image: WYG1073/WYG1073-0643a.png}
   back: []
-hash: sha256:462c1ebd4c510b7fc5bf27bc778d1e23ab042476de2a59b6e6272142e58a20d4
+hash: sha256:a5b25c8ff4dd66ff2af22435d73e6a79d5e7b28a9346a0066a8b4fd86f2175e3

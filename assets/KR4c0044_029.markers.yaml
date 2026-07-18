@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 972, content: 朱文公校昌黎先生集卷之二十九考異音釋附碑誌唐故朝散大夫商州刺史除名徙封州董府君墓誌公諱溪字惟深丞相贈太師隴西㳟惠公第二子十九歳明兩經獲第有司沈厚精敏未嘗有子弟之過賔接門下推舉人士侍側無虚口退而見其人淡若與之無情者太師賢而愛之父子閒自爲知巳諸子雖賢莫敢望之太師累踐大官大或作从非是臻宰相致平治終始以禮號稱名臣晨昏之助蓋有頼云太師之平汴州師下或无之字年考益高挈持維綱鋤削荒纇音耒祝曰絲節淮南子明月之珠不能無纇纇或作頑納之大和而巳其囊篋細碎無所遺漏繄公之功上介尚書左僕射陸公長源齒差太師標望絶人聞其所爲毎稱舉以戒其子楊凝孟叔度以材德顯名朝廷或作於朝及來佐幕府佐或作往詣門請交屏所挾爲或作屏弃所挾太師薨始以祕書郎選參軍京兆府法曹選或作迁日伏階下與大尹爭是非大尹屢黜巳見大或並作太歳中奏爲司録參軍與一府政以能拜尚書度支貟外郎遷倉部郎中萬年令兵誅恒州改度支郎中攝御史中丞爲糧料使兵罷遷商州刺史糧料吏有忿爭相牽告者事及於公因徴下御史獄因方作顯云漢韓安囯傳由此顯結於漢當用此義今按此召對私耳与方所引者不類當只作因公不與吏辨一皆引伏受垢除名徙封州元和六年五月十二日死湘中年四十九州下方本无年月日但於湘中下云年若干仐以眺本定按唐書元和七年立遂王爲太子亦与下文相應明年立皇太子有赦令許歸葬其子居中始奉䘮歸元和八年十一月甲寅葬于河南河南縣萬安山下太師墓左夫人鄭氏祔公凡再娶皆鄭氏女生六子四男二女長曰全正惠而早死次曰居中好學善爲詩張籍稱之次曰從直曰居敬尚小直下或有次字長女嫁呉郡陸暢其季女後夫人之子公之母弟全素孝慈友弟公坐事棄同官令歸公殁比葬三年哭泣如始䘮者大臣髙其行白爲太子舎人将葬舎人與其季弟澥户買切問銘於太史氏韓愈将葬下方有中字今以上文考之无者爲是然丗系表全素太子中書舎人通典中舎一云中書舎人又安知全素不自舎人迁中舎邪今按中字有則前後皆當有无則皆當无不應前无而後有也審如方說此志亦必是未迁時作况它本自有无中字者今姑从之不必曲爲之説也愈則爲之銘辭曰物以乆弊或以轢音歴車所踐也毀考致要歸孰有彼此由我者吾不我者天斯而以然其誰使然貞曜先生墓誌先生孟郊湖州武康人也唐元和九年歳在甲午八月巳亥巳或作乙方云考唐曆是月无乙亥也貞曜先生孟氏卒無子其配鄭氏以告愈走位哭且召張籍㑹哭走或作赴位或作泣明日使以錢如東都供葬事諸嘗與往來者咸來哭弔嘗或作常韓氏遂以書告興元尹故相餘慶閠月樊宗師使, WYG: ''}
   - {type: variant, offset: 5, length: 1, content: 黎, SBCK: 􅀺}
   - {type: punctuation, offset: 14, content: (, id: KR4c0044_krp_029-bkkpn1}
+  - {type: 'voice:problem', offset: 14, length: 0, id: KR4c0044_bkk_029-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 14}
   - {type: punctuation, offset: 17, content: /, id: KR4c0044_krp_029-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_029-bkkpn1}
@@ -17,6 +18,7 @@ markers:
       ', id: KR4c0044_krp_029-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_029-1a02}
   - {type: indent, offset: 0, content: 　　, id: KR4c0044_krp_029-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_029-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: substitution, offset: 1, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: 'kr:newline', offset: 2, content: '
 
@@ -1397,4 +1399,4 @@ markers:
   - {type: variant, offset: 3532, length: 0, content: '', WYG: 欽定四庫全書别本韓文考異巻三十宋王伯大重編}
   - {type: page-break, offset: 3532, content: '', id: KR4c0044_WYG_030-1a, image: WYG1073/WYG1073-0602a.png}
   back: []
-hash: sha256:50dcd0aaf309008b09e167de5ba374db6fc1ded8e8c2c4d1a9cb06c379f3005f
+hash: sha256:1d08e76de154e18c1ad09edd112a9b96edd762d5a768ce4d7778788255b81a8a

@@ -338,8 +338,9 @@ markers:
   - {type: line-break, offset: 729, content: '', id: KR4c0044_WYG_045-1a06}
   - {type: indent, offset: 729, content: 　　　　, id: KR4c0044_WYG_045-bkkind29}
   - {type: punctuation, offset: 729, content: (, id: KR4c0044_WYG_045-bkkpn64}
+  - {type: 'voice:problem', offset: 729, length: 0, id: KR4c0044_WYG_045-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 729}
   - {type: 'kr:newline', offset: 734, content: '
 
       ', id: KR4c0044_WYG_045-bkkkrnewl56}
   back: []
-hash: sha256:cd425da0f91b2250636e30df6a5ecba175ab8429a8a4bba3c9c4f18606e02644
+hash: sha256:0eac79a3ed4396b9a3b431ec4a49f1156fef2da1fa024930c6ad7cbc36b69b35

@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_033-1a01}
   - {type: variant, offset: 0, length: 569, content: 朱文公校昌黎先生集卷之三十三考異音釋附碑誌楚國夫人墓誌銘韓弘妻楚國夫人姓翟氏故檢校御史大夫宋州刺史良佐之女今司徒兼中書令許國公之妻前鄜坊節度使散騎常侍兼御史大夫公武之母或无司字坊或作州非是夫人在家以孝友聦明爲父母所偏愛選所宜歸以適韓氏韓氏族大且貴又太尉劉公甥内外尊顯又或作父非是公下或有之字夫人入門上下莫不賛賀或作賢事皇姑齊國太夫人肅㳟誠至奉養不怠皇姑以夫人能盡婦道稱之六親能上或有爲字其事夫義以順其教子愛以公司徒公曰我之能守貴富不危溢者楚國有助焉耳大夫領梁偏師卒就蔡功受節居藩爲邦家令人父母之教然也夫人以元和十四年十一月一日薨于鄜之公府春秋若干大夫委節去位奉䘮以居東都詔起之辭以羸毀不任即命又加喻勉固不變天子嗟歎之起上或有再字固下或有守字長慶二年三月某日葬夫人于洛陽北山夫人生二子長曰肅元爲大子司議郎以卒贈尚書主客郎中其次大夫公武也銘曰翟氏之先蓋出宗周璜顯於魏以佐文侯髙陵翟方進封髙陵侯相漢義以家酬遷于南陽始自郎苗逮魏晉宋代不絶史以至夫人太守之子司徒之妻大夫之母公居河東子在鄜畤爲王屏翰有壌千里公或作父非是公曰姑止以承我祀子曰母兮莫我撫已莫我或作莫慰文駟雕軒往來有煒莫尊於母莫榮於妻從古迄今孰盛與夷用昭厥裔篆此銘詩唐故國子司業竇公墓誌銘國子司業竇公諱牟字某或作字貽周六代祖敬遠嘗封西河公大父同昌司馬比四代仍襲爵名代或作丗同昌諱胤生皇考諱, WYG: ''}
   - {type: punctuation, offset: 14, content: (, id: KR4c0044_krp_033-bkkpn1}
+  - {type: 'voice:problem', offset: 14, length: 0, id: KR4c0044_bkk_033-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 14}
   - {type: punctuation, offset: 17, content: /, id: KR4c0044_krp_033-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_033-bkkpn1}
@@ -16,6 +17,7 @@ markers:
       ', id: KR4c0044_krp_033-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_033-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4c0044_krp_033-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_033-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: substitution, offset: 1, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: 'kr:newline', offset: 2, content: '
 
@@ -1741,4 +1743,4 @@ markers:
   - {type: page-break, offset: 4670, content: '', id: KR4c0044_WYG_034-2a, image: WYG1073/WYG1073-0636a.png}
   - {type: page-break, offset: 4670, content: '', id: KR4c0044_WYG_034-2b, image: WYG1073/WYG1073-0636b.png}
   back: []
-hash: sha256:f8634e28ae7f765aedec3873579119603388e801c42cf3bb96d32e0033a932d9
+hash: sha256:fbab520cd4a8f82600a4fcc1ed40f3fbca6658ceef963421dbbf1f434b432b45

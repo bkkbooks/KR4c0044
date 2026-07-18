@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 19, content: 朱文公校昌黎先生集卷之十八考異音擇附書, WYG: ''}
   - {type: variant, offset: 5, length: 1, content: 黎, SBCK: 􅀺}
   - {type: punctuation, offset: 13, content: (, id: KR4c0044_krp_018-bkkpn1}
+  - {type: 'voice:problem', offset: 13, length: 0, id: KR4c0044_bkk_018-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 13}
   - {type: punctuation, offset: 16, content: /, id: KR4c0044_krp_018-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_018-bkkpn1}
@@ -17,6 +18,7 @@ markers:
       ', id: KR4c0044_krp_018-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_018-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4c0044_krp_018-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_018-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 1, content: '
 
       ', id: KR4c0044_krp_018-bkkkrnewl2}
@@ -2161,4 +2163,4 @@ markers:
   - {type: page-break, offset: 6042, content: '', id: KR4c0044_WYG_019-6b, image: WYG1073/WYG1073-0505b.png}
   - {type: page-break, offset: 6042, content: '', id: KR4c0044_WYG_019-7a, image: WYG1073/WYG1073-0505c.png}
   back: []
-hash: sha256:84ffd3afb970d467e5ab8f75e1f4fc44b1a7b4a15ea0a2b71e718d78fb80a6e5
+hash: sha256:519516d798a2268b9af9a13ff9eb8d737c90438f7b585fb17a3f0a71b144b44d

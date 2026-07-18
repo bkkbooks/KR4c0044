@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_004-1a01}
   - {type: variant, offset: 0, length: 17, content: 朱文公校昌黎先生集卷之四考異音釋附, WYG: ''}
   - {type: punctuation, offset: 12, content: (, id: KR4c0044_krp_004-bkkpn1}
+  - {type: 'voice:problem', offset: 12, length: 0, id: KR4c0044_bkk_004-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 12}
   - {type: punctuation, offset: 15, content: /, id: KR4c0044_krp_004-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_004-bkkpn1}
@@ -16,6 +17,7 @@ markers:
       ', id: KR4c0044_krp_004-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_004-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4c0044_krp_004-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_004-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 2, content: '
 
       ', id: KR4c0044_krp_004-bkkkrnewl2}
@@ -4824,4 +4826,4 @@ markers:
   - {type: variant, offset: 11517, length: 0, content: '', WYG: 年河南尹遣吏持詔敦促又不赴公為河南令遺渤書譬說渤善公言始出家于東都索價髙兩以諫官徴不起彼皆刺口論世事有力未免遭驅使先生事業不可量惟用法律自繩巳春秋三傳束髙閣三方作五或作左巳今按鄒夾春秋世無傳而當世見行三傳作五左皆非也此孫曰晋杜乂殷洪並才名冠世更翼弗之重語人曰軰宜束之髙閣俟天下太平然後議其任耳獨抱遺經究終始抱方作把非是徃年弄筆嘲同異孫曰仝與馬異結交詩云仝不仝異不異是謂大同而小異仝自仝異自異是謂仝不徃兮異不至怪辭驚衆謗不巳近來自說尋坦途猶上虚空跨緑駬虚空或作青雲方云緑駬今本二字皆從馬按穆天子傳荀列史漢皆作緑耳郭璞注穆傳猶魏時鮮卑獻黄耳馬是以耳色言也此詩豈以重韻妄刋耶去嵗生兒名添丁仝有添丁詩意令與國充耘耔音子擁苗本國家丁口連四海}
   - {type: page-break, offset: 11517, content: '', id: KR4c0044_WYG_005-5a, image: WYG1073/WYG1073-0329c.png}
   back: []
-hash: sha256:ff20138f2ba4fe274fbec717e79aad980a667bc3814becdfbc3afca246bc64a7
+hash: sha256:0badf7b6fe8feb0a6952bbfb0c1494d65a52e492f27215813ff7bdeb78acf01b

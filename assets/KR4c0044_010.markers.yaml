@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_010-1a01}
   - {type: variant, offset: 0, length: 317, content: 朱文公校昌黎先生文集卷之十考異音釋附律詩凡八十首諸本作七十九道方從蜀本送李尚書赴襄陽八韻得長字李遜也帝憂南國切改命付忠良壤畫星揺動旗分獸簸揚五營兵轉肅孫曰謂禁掖後漢張奐率五營士圍竇武千里地還方控帶荆門逺飄浮漢水長賜書寛屬郡或作部戰馬隔鄰疆縱獵雷霆迅觀棊玉石忙風流峴胡典切樊曰羊祜毎風景必造峴山置酒謂從事鄒湛曰自有宇宙便有此山首客花豔大堤倡韓日宋隨玉設爲㐮陽郎聞諸女歌因爲詞曰朝發㐮陽成暮至大堤也大堤諸女兒花豔驚郎目富貴由身致誰教不自強和席八十二韻席夔絳闕銀河曙東風右掖春韓曰應劭漢官儀中書爲右曹称西掖孫曰正門之兩旁曰掖官隨名共美花與思俱新綺陌朝遊閒綾衾夜直頻孫曰漢官典職儀曰尚書郎入直洪青綾白綾被直宿直也横門開日月髙閣切星辰庭變寒前草, WYG: ''}
   - {type: punctuation, offset: 13, content: (, id: KR4c0044_krp_010-bkkpn1}
+  - {type: 'voice:problem', offset: 13, length: 0, id: KR4c0044_bkk_010-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 13}
   - {type: punctuation, offset: 16, content: /, id: KR4c0044_krp_010-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_010-bkkpn1}
@@ -16,6 +17,7 @@ markers:
       ', id: KR4c0044_krp_010-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_010-1a02}
   - {type: indent, offset: 0, content: 　　, id: KR4c0044_krp_010-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_010-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: punctuation, offset: 6, content: (, id: KR4c0044_krp_010-bkkpn2}
   - {type: punctuation, offset: 12, content: /, id: KR4c0044_krp_010-bkkpn3}
   - {type: punctuation, offset: 17, content: ), id: KR4c0044_krp_010-bkkpn4}
@@ -3417,4 +3419,4 @@ markers:
   - {type: page-break, offset: 7709, content: '', id: KR4c0044_WYG_011-1a, image: WYG1073/WYG1073-0410a.png}
   - {type: page-break, offset: 7709, content: '', id: KR4c0044_WYG_011-1b, image: WYG1073/WYG1073-0410b.png}
   back: []
-hash: sha256:d47825b9ab9810a3166372b47d81254138d48154bba9233fa2e4071a4f14d19d
+hash: sha256:6ffbc8b50ef9dcdfbf2dabff6d60b9dd9513cc7dd6e800126771e625ac72bdda

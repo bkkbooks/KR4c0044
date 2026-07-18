@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 11, content: 朱文公校昌黎先生集卷之, WYG: ''}
   - {type: punctuation, offset: 14, content: (, id: KR4c0044_krp_035-bkkpn1}
   - {type: variant, offset: 14, length: 5, content: 考異音釋附, WYG: 宋王伯大重編}
+  - {type: 'voice:problem', offset: 14, length: 0, id: KR4c0044_bkk_035-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 14}
   - {type: punctuation, offset: 17, content: /, id: KR4c0044_krp_035-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_035-bkkpn1}
@@ -17,6 +18,7 @@ markers:
       ', id: KR4c0044_krp_035-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_035-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4c0044_krp_035-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_035-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: substitution, offset: 1, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: 'kr:newline', offset: 2, content: '
 
@@ -809,4 +811,4 @@ markers:
   - {type: variant, offset: 1765, length: 0, content: '', WYG: 欽定四庫全書别本韓文考異巻三十六宋王伯大重編雜}
   - {type: page-break, offset: 1765, content: '', id: KR4c0044_WYG_036-1a, image: WYG1073/WYG1073-0647a.png}
   back: []
-hash: sha256:09a762bf2aa51342a775569ddacca0fec3ac6b44628f947583671e03a5c34bbf
+hash: sha256:0db7d44e659096069ddd445ea02854395e71faab23ecb1fbf954a9ef4f19aab7

@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_003-1a01}
   - {type: variant, offset: 0, length: 25, content: 朱文公校昌黎先生集卷之三考異音釋附古詩河之水二首寄, WYG: ''}
   - {type: punctuation, offset: 12, content: (, id: KR4c0044_krp_003-bkkpn1}
+  - {type: 'voice:problem', offset: 12, length: 0, id: KR4c0044_bkk_003-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 12}
   - {type: punctuation, offset: 15, content: /, id: KR4c0044_krp_003-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_003-bkkpn1}
@@ -16,6 +17,7 @@ markers:
       ', id: KR4c0044_krp_003-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_003-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4c0044_krp_003-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_003-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 2, content: '
 
       ', id: KR4c0044_krp_003-bkkkrnewl2}
@@ -2840,4 +2842,4 @@ markers:
   - {type: variant, offset: 7209, length: 0, content: '', WYG: 欽定四庫全書别本韓文考異巻四宋王伯大重編}
   - {type: page-break, offset: 7209, content: '', id: KR4c0044_WYG_004-1a, image: WYG1073/WYG1073-0312a.png}
   back: []
-hash: sha256:da030ef059b065325921f34ff9db1039db412b09f4d0b652e1a965e2b3d98122
+hash: sha256:34095428f01b799664a0d36af7e3e7df55e100c1964f53884ab2178e73adf6ad

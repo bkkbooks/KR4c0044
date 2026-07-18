@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_038-1a01}
   - {type: variant, offset: 0, length: 19, content: 朱文公校昌黎先生集卷之三十八考異音釋附, WYG: ''}
   - {type: punctuation, offset: 14, content: (, id: KR4c0044_krp_038-bkkpn1}
+  - {type: 'voice:problem', offset: 14, length: 0, id: KR4c0044_bkk_038-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 14}
   - {type: punctuation, offset: 17, content: /, id: KR4c0044_krp_038-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_038-bkkpn1}
@@ -16,6 +17,7 @@ markers:
       ', id: KR4c0044_krp_038-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_038-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4c0044_krp_038-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_038-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 2, content: '
 
       ', id: KR4c0044_krp_038-bkkkrnewl2}
@@ -1205,4 +1207,4 @@ markers:
   - {type: variant, offset: 3308, length: 0, content: '', WYG: 欽定四庫全書别本韓文考異巻}
   - {type: page-break, offset: 3308, content: '', id: KR4c0044_WYG_039-1a, image: WYG1073/WYG1073-0667a.png}
   back: []
-hash: sha256:ceaba4282a4a86ad5999e3d6f98b8284cd3330b6ea4c8e745a0811ace39cce77
+hash: sha256:91fa7926e2508f70d8b7ee2d385975de3d8955a798ef32a3d02742160eab6bb0

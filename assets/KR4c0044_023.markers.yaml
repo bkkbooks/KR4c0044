@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 24, content: 朱文公校昌黎先生集卷之二十三考異音釋附祭文袁州祭, WYG: ''}
   - {type: variant, offset: 5, length: 1, content: 黎, SBCK: 􅀺}
   - {type: punctuation, offset: 14, content: (, id: KR4c0044_krp_023-bkkpn1}
+  - {type: 'voice:problem', offset: 14, length: 0, id: KR4c0044_bkk_023-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 14}
   - {type: punctuation, offset: 17, content: /, id: KR4c0044_krp_023-bkkpn2}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4c0044_krp_023-bkkpn1}
@@ -17,6 +18,7 @@ markers:
       ', id: KR4c0044_krp_023-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_023-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4c0044_krp_023-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_023-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 2, content: '
 
       ', id: KR4c0044_krp_023-bkkkrnewl2}
@@ -2565,4 +2567,4 @@ markers:
   - {type: variant, offset: 6641, length: 0, content: '', WYG: 欽定四庫全書别本韓文考異巻二十四宋王伯大重編}
   - {type: page-break, offset: 6641, content: '', id: KR4c0044_WYG_024-1a, image: WYG1073/WYG1073-0556c.png}
   back: []
-hash: sha256:7425bb5c9ba2a39172018a35e37748a84e7c2898296b12e650c351fc50758787
+hash: sha256:018aac3b1fc063470b88c39d5f9fc621d45b4b9c9ede442378a635b439d7292a

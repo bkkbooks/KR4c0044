@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_036-1a01}
   - {type: variant, offset: 0, length: 20, content: 朱文公校昌黎先生集卷之三十六考異音釋附雜, WYG: ''}
   - {type: punctuation, offset: 14, content: (, id: KR4c0044_krp_036-bkkpn1}
+  - {type: 'voice:problem', offset: 14, length: 0, id: KR4c0044_bkk_036-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 14}
   - {type: punctuation, offset: 17, content: /, id: KR4c0044_krp_036-bkkpn2}
   - {type: variant, offset: 19, length: 1, content: 雜, SBCK: 􅄂}
   body:
@@ -17,6 +18,7 @@ markers:
       ', id: KR4c0044_krp_036-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0044_SBCK_036-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4c0044_krp_036-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0044_bkk_036-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 2, content: '
 
       ', id: KR4c0044_krp_036-bkkkrnewl2}
@@ -1464,4 +1466,4 @@ markers:
   - {type: variant, offset: 3670, length: 0, content: '', WYG: 欽定四庫全書别本韓文考異巻三十七宋王伯大重編行狀}
   - {type: page-break, offset: 3670, content: '', id: KR4c0044_WYG_037-1a, image: WYG1073/WYG1073-0652a.png}
   back: []
-hash: sha256:ae33ac5070dee5a33d7e00748b245aeb10e374a33cc84cf1d69c30b1249b8185
+hash: sha256:746cd78f6f4d22c30f826b1f55192ab435504cc07c0439102cf90ecb63804b91
